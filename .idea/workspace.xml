@@ -6,28 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="613fb0ba-f197-4e62-b07e-eb226c0fb60b" name="Default" comment="fixed pom">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/java7pozServletyPractice_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/java7pozServletyPractice_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/User.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/filters/AuthenticationFilter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/servlets/AdminServlet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/servlets/LoginServlet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/servlets/cookieServlet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/admin.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/cookieInfo.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/noCookies.jsp" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+    <list default="true" id="613fb0ba-f197-4e62-b07e-eb226c0fb60b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -63,12 +43,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cookieInfo.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="cookieInfo.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/cookieInfo.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+              <folding>
+                <element signature="e#32783#32789#0" expanded="true" />
+                <element signature="e#32798#32804#0" expanded="true" />
+                <element signature="e#33006#33012#0" expanded="true" />
+                <element signature="e#33016#33022#0" expanded="true" />
+                <element signature="e#33224#33230#0" expanded="true" />
+                <element signature="e#33234#33240#0" expanded="true" />
+                <element signature="e#33441#33447#0" expanded="true" />
+                <element signature="e#33451#33457#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -294,6 +293,11 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java7pozServletyPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java7pozServletyPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -475,7 +479,7 @@
       <updated>1529510707266</updated>
       <workItem from="1529510710860" duration="1653000" />
       <workItem from="1529512595579" duration="8620000" />
-      <workItem from="1529574901165" duration="353000" />
+      <workItem from="1529574901165" duration="511000" />
     </task>
     <task id="LOCAL-00001" summary="fixed pom">
       <created>1529512316401</created>
@@ -484,11 +488,18 @@
       <option name="project" value="LOCAL" />
       <updated>1529512316401</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new webApp">
+      <created>1529575334200</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1529575334200</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10626000" />
+    <option name="totallyTimeSpent" value="10784000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="108" width="1552" height="850" extended-state="6" />
@@ -538,7 +549,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixed pom" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed pom" />
+    <MESSAGE value="new webApp" />
+    <option name="LAST_COMMIT_MESSAGE" value="new webApp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -656,13 +668,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/servlets/TestServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -760,6 +765,23 @@
         <state relative-caret-position="238">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding>
+            <element signature="e#32783#32789#0" expanded="true" />
+            <element signature="e#32798#32804#0" expanded="true" />
+            <element signature="e#33006#33012#0" expanded="true" />
+            <element signature="e#33016#33022#0" expanded="true" />
+            <element signature="e#33224#33230#0" expanded="true" />
+            <element signature="e#33234#33240#0" expanded="true" />
+            <element signature="e#33441#33447#0" expanded="true" />
+            <element signature="e#33451#33457#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
